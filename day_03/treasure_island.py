@@ -41,6 +41,3 @@ if left_or_right == "left":
         print("You got attacked by an angry trout.\nGame Over.")
 else:
     print("Fall into a hole.\nGame Over.")
-
-
-
